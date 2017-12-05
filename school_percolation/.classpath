@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<classpath>
+	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER"/>
+	<classpathentry kind="src" path="Percolation"/>
+	<classpathentry kind="lib" path="stdlib.jar"/>
+	<classpathentry kind="lib" path="/Volumes/ADS/新建文件夹 (2)/算法/algs4.jar"/>
+	<classpathentry kind="output" path="bin"/>
+</classpath>
