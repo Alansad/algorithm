@@ -1,4 +1,4 @@
-
+package pattern;
 
 public class BoyerMoore {
 	public static int Search(String txt,String pat) {
